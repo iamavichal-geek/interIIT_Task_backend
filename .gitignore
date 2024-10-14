@@ -2,4 +2,5 @@
 /.pnp
 .pnp.js
 
-/.env
+.env
+.vercel
